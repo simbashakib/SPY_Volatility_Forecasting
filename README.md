@@ -23,5 +23,3 @@ On the 2019–2022 validation period, volume-only regression and random-forest m
 ## Notebook
 
 [View the analysis and code](volatility_forecasting.ipynb)
-
-Lower forecast error does not, by itself, imply a profitable trading strategy.
